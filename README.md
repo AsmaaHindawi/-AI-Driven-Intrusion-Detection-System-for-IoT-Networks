@@ -41,4 +41,4 @@ Alert Notification Latency,~1.2s (via Telegram)
   location={Beirut, Lebanon}
 }
 
-👥 AuthorsAsmaa Hindawi - Lead Researcher & Developer   Dr. Amal El Arid - Research Supervisor   
+👥 Authors: Asmaa Hindawi, Omar Al Halabi, Fouad Nafaa, and Souad Sabouh - Lead Researcher & Developer   Dr. Amal El Arid - Research Supervisor   
